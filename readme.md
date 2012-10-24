@@ -1,0 +1,1 @@
+This is new django Project for Blog Engine V.2
